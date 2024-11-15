@@ -1,4 +1,8 @@
 i am a fix file
 this is master change
 this is bug-fix
+
 hello
+
+let's fix the bug
+
