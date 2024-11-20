@@ -1,6 +1,5 @@
 # ***Vector-dot-product***
-
-'''
+\```
 #include<iostream>
 #include<vector>
 using namespace std
@@ -25,35 +24,33 @@ int main()
   cout<<"Dot product : "<<result <<endl;
   return 0;
 }
-'''
+\```
 >Mathematical Expression
 $$ \mathbf{A} \cdot \mathbf{B} = \sum_{i=1}^{n} A_i B_i $$
 
-###Link
+### Link
 [google](https://www.google.co.in)
 
-###List
+### List
 1. If vectors are orthogonal dot product is 0.
 2. At 180 degree dot product is minimum.
 3. At 0 degree dot product is maximum.
 
-###Alert
+### Alert
 >[!NOTE]
 >Magnitude of vectors cannot be negative.
 
-###Table
-|---------------------|-----------------|------------------|
+### Table
+
 |       Version       | Time complexity | Space Complexity |
 |---------------------|-----------------|------------------|
 |      Basic Loop     |       O(n)      |      O(1)        |
-|---------------------|-----------------|------------------|
 |parallel Computation |     O(log n)    |      O(1)        |
-|---------------------|-----------------|------------------|
 
-###Footnotes
+### Footnotes
 [^1] The vector-dot-product
 
-###Image
+### Image
 ![Not found](image.png)
 
  
