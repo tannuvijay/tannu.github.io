@@ -1,5 +1,5 @@
 # ***Vector-dot-product***
-\```
+```
 #include<iostream>
 #include<vector>
 using namespace std
@@ -24,7 +24,7 @@ int main()
   cout<<"Dot product : "<<result <<endl;
   return 0;
 }
-\```
+```
 >Mathematical Expression
 $$ \mathbf{A} \cdot \mathbf{B} = \sum_{i=1}^{n} A_i B_i $$
 
@@ -48,7 +48,7 @@ $$ \mathbf{A} \cdot \mathbf{B} = \sum_{i=1}^{n} A_i B_i $$
 |parallel Computation |     O(log n)    |      O(1)        |
 
 ### Footnotes
-[^1] The vector-dot-product
+[^1]: The vector-dot-product
 
 ### Image
 ![Not found](image.png)
