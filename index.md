@@ -8,10 +8,10 @@
 
 ## **RESULT**
 
-| Class | Score(%) |
-|-------|----------|
-| XII   |   92     |
-|  X    |   95     |
+| Class | Score(%) | Year |
+|-------|----------|------|
+| XII   |   92     | 2022 |
+|  X    |   95     | 2020 |
 
 ![Not Found](image.png)
 
