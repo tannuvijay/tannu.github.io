@@ -13,11 +13,11 @@
 | XII   |   92     |
 |  X    |   95     |
 
-![Not Found](git5.jfif)
+![Not Found](image.png)
 
 ### **CONTACT DETAILS**
-> +91 34578zzzzz
-> tanuvj1234@gmail.com
+> +91 34578zzzzz   
+> tannuvj1234@gmail.com
 
 ### **ABOUT**
 
